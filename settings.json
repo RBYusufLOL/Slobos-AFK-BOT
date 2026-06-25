@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Vee",
+    "username": "Slobot00",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "RBYusufSMP.aternos.me",
     "port": 15023,
-    "version": "1.20.6",
+    "version": "",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to RBYusuf!",
+        "Subscribe to Slobos!",
         "I like to play Minecraft!"
       ]
     },
